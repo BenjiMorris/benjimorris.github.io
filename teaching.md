@@ -12,4 +12,4 @@
 
 ### Other Experience:
 - 2019 Academic Mentor at [Ursula Hall](https://www.anu.edu.au/study/accommodation/student-residences/ursula-hall-main-wing)
-- 2019 PAL Mentor at ANU Research School of Chemistry
+- 2019 PAL Mentor at ANU [Research School of Chemistry](https://chemistry.anu.edu.au/)
