@@ -6,6 +6,6 @@
 Slides not available yet.
 - ### February 2023: [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Les Houches
 slides available [here](\documents\Les_Houches_Talk.pdf).
-- ### Leeds, January 2023: Pure Mathematics Postgraduate Seminar
-- ### December 2021: [65th Annual Meeting of the Australian Mathematical Society](https://carmamaths.org/meetings/austms2021/#page=about), Integrable Systems and Mathematical Physics special session, Newcastle.
+- ### January 2023: Pure Mathematics Postgraduate Seminar, Leeds 
+- ### December 2021: [65th Annual Meeting of the Australian Mathematical Society](https://carmamaths.org/meetings/austms2021/#page=about), Integrable Systems and Mathematical Physics special session, Newcastle
 slides available [here](\documents\Les_Houches_Talk.pdf).
