@@ -9,6 +9,4 @@ My Honours thesis, supervised by Professor Vladimir Mangazeev at the Australian 
 - ### June 2021: Thin Position for 3-manifolds
 A Term Paper for a 3-manifold topology course taught by Dr Joan Licata. We present Scharlemann and Thompsons notion of thin position for 3-manifolds, as well as a more general Morse theoretic perspective. Available [here](/documents/thin_position.pdf).
 - ### January 2021: Introduction to Quantum Groups
-A summer reading project supervised by Professor Mangazeev 
-
-Term Paper for a 3-manifold topology course taught by Dr Joan Licata. We present Scharlemann and Thompsons notion of thin position for 3-manifolds, as well as a more general Morse theoretic perspective. Available [here](/documents/thin_position.pdf).
+A summer reading project supervised by Professor Mangazeev in preparation for my honours project. The main report is available [here](/documents/intro_to_quantum_groups.pdf), and there are two supplementary documents ([here](/documents/qgpsAP1.pdf) and [here](/documents/qgpsAP2.pdf)) including a detailed worked example. 
