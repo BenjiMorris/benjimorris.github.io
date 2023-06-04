@@ -5,7 +5,7 @@
 - ### June 2023: [SIDE 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?ovw=True&confId=67) (Symmetries and Integrability of Difference Equations), Warsaw
 Slides not available yet.
 - ### February 2023: [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Les Houches
-slides available [here](\documents\Les_Houches_Talk.pdf).
+slides available [here](\documents\talk.pdf).
 - ### January 2023: Pure Mathematics Postgraduate Seminar, Leeds 
 - ### December 2021: [65th Annual Meeting of the Australian Mathematical Society](https://carmamaths.org/meetings/austms2021/#page=about), Integrable Systems and Mathematical Physics special session, Newcastle
-slides available [here](\documents\Les_Houches_Talk.pdf).
+slides available [here](\documents\AustMS2021_Pres.pdf).
