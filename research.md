@@ -2,9 +2,9 @@
 
 # Research and Selected Writings
 
-- ### A Terminating $q$-Lauricella Transformation Formula
+- ### A Terminating q-Lauricella Transformation Formula
 Available soon.
-- ### November 2021: Towards a Factorised Solution of the Yang-Baxter Equation with $`U_q(\mathfrak{sl}_4)`$ Symmetry
+- ### November 2021: Towards a Factorised Solution of the Yang-Baxter Equation with Uq(sl_4) Symmetry
 My Honours thesis, supervised by Professor Vladimir Mangazeev at the Australian National University. Available [here](/documents/thesis.pdf).
 - ### June 2021: Thin Position for 3-manifolds
 A Term Paper for a 3-manifold topology course taught by Dr Joan Licata. We present Scharlemann and Thompson's notion of thin position for 3-manifolds, as well as a more general Morse theoretic perspective. Available [here](/documents/thin_position.pdf).
