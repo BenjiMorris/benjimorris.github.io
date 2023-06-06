@@ -3,7 +3,7 @@
 # Research and Selected Writings
 
 - ### A Terminating q-Lauricella Transformation Formula
-[Here](/documents/q_series_id.pdf) we give a self contained discussion and proof of a charming q-series identity discovered in a previous project, which relates two terminating, type D, q-Lauricella series of rank n+1 and 2n-1 respectively, for any n>0. 
+[Here](/documents/q_series_id.pdf) we give a self contained discussion and proof of a charming q-series identity discovered in a previous project, which relates two terminating, type D, q-Lauricella series of rank n+1 and 2n-1, respectively, for any n>0. 
 - ### November 2021: Towards a Factorised Solution of the Yang-Baxter Equation with Uq(sl_4) Symmetry
 My Honours thesis, supervised by Professor Vladimir Mangazeev at the Australian National University. Available [here](/documents/thesis.pdf).
 - ### June 2021: Thin Position for 3-manifolds
