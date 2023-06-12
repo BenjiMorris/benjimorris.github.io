@@ -3,7 +3,7 @@
 # Talks Given
 
 - ### June 2023: [SIDE 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?ovw=True&confId=67) (Symmetries and Integrability of Difference Equations), Warsaw
-Slides available [here](/documents/side_talk.pdf)..
+Slides available [here](/documents/side_talk.pdf).
 - ### February 2023: [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Les Houches
 Slides available [here](/documents/talk.pdf).
 - ### January 2023: Pure Mathematics Postgraduate Seminar, Leeds 
