@@ -42,4 +42,4 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 # Upcoming:
 
 - ### 9-11 April 2025: [ITMAIA 2025](https://sites.google.com/view/itmaia2025/home) (Introduction to Modern Advances in Algebra), Manchester
-- ### 15–21 June 2025: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo  
+- ### (TBC) 15–21 June 2025: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo  
