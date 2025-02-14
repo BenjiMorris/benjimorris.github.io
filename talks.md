@@ -33,10 +33,10 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 (excluding those above) 
 - ### July 2024: [Diagrammatic Intuition and Deep Learning in Mathematics](https://sites.google.com/view/diagrammatic-learning/home), York
 - ### July 2024: [Combinatorial representation theory and diagrammatic categorification](https://sites.google.com/view/york-lms-research-school-2024/home), York
-- ### May 2024: [CQI Workshop](https://integrable-systems.leeds.ac.uk/quantisation-of-integrable-systems-old-and-new/) Quantisation of Integrable Systems: old and new, Leeds
+- ### May 2024: [CQI Workshop](https://integrable-systems.leeds.ac.uk/quantisation-of-integrable-systems-old-and-new/): Quantisation of Integrable Systems: old and new, Leeds
 - ### October 2023: [Topological Quantum Computation](https://www.icms.org.uk/TopologicalQuantumComputation), Edinburgh
 - ### July 2023: [Combinatorial Representation Theory](https://sites.google.com/view/workshop-2023/home), Leeds
-- ### May 2023: [CQI Workshop](https://integrable-systems.leeds.ac.uk/poisson/) Poisson and quantum structures in integrable systems, Leeds
+- ### May 2023: [CQI Workshop](https://integrable-systems.leeds.ac.uk/poisson/): Poisson and quantum structures in integrable systems, Leeds
 - ### April 2023: [Spring School in Algebra and Representation Theory](https://www.kent.ac.uk/smsas/personal/sl261/Conference/Canterbury2023/Practical2023.html), Canterbury
 
 # Upcoming:
