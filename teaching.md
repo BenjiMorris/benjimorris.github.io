@@ -13,6 +13,8 @@
 - UoL, Autumn Semester 2023/24: MATH1050 Calculus and Mathematical Analysis
 - UoL, Autumn Semester 2023/24: MATH1055 Numbers and Vectors
 - UoL, Spring Semester 2023/24: MATH2017 Real Analysis
+- UoL, Autumn Semester 2024/25: MATH1120 Introduction to Group Theory
+- UoL, Autumn & Spring Semester 2024/25: MATH1110 Real Analysis
 
 ### Other Experience:
 - 2019 Academic Mentor at [Ursula Hall](https://www.anu.edu.au/study/accommodation/student-residences/ursula-hall-main-wing)
