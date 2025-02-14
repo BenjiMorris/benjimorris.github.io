@@ -20,13 +20,13 @@ Talk: "An Unorientable Extension of the Temperley-Lieb Category". [Slides](/docu
 - ### March 2024: [Pure Mathematics Postgraduate Seminar](https://leeds-maths-pgr.github.io/pure/seminar.html), Leeds
 Blackboard Talk: "Lattice Statistical Mechanics is Algebra".
 - ### June 2023: [SIDE 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?ovw=True&confId=67) (Symmetries and Integrability of Difference Equations), Warsaw
-Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/side_talk.pdf).
+Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/side_talk.pdf)
 - ### February 2023: [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Les Houches
-Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/talk.pdf).
+Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/talk.pdf)
 - ### January 2023: [Pure Mathematics Postgraduate Seminar](https://leeds-maths-pgr.github.io/pure/seminar.html), Leeds
 Blackboard Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry".
 - ### December 2021: [65th Annual Meeting of the Australian Mathematical Society](https://carmamaths.org/meetings/austms2021/#page=about), Integrable Systems and Mathematical Physics special session, Newcastle
-Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/AustMS2021_Pres.pdf).
+Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) symmetry". [Slides](/documents/AustMS2021_Pres.pdf)
 
 
 # Conferences/Workshops Attended:
