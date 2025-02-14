@@ -4,8 +4,7 @@
 
 Hi, I am a third year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/) and [Professor Frank Nijhoff](https://www1.maths.leeds.ac.uk/~frank/). 
 
-Broadly speaking, I am interested
-
+Broadly speaking, I am
 
 
 
