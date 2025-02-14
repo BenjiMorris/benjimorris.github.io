@@ -4,19 +4,19 @@
 
 
 - ### December 2024: [Artin](https://conferences.leeds.ac.uk/artin/) (Algebra and Representation Theory in the North) Biracks and Biquandles: Theory, applications, and new perspectives, Leeds
-Talk: "A Diagram Category for Non-orientable Surfaces". 
+Talk: "A Diagram Category for Non-orientable Surfaces". Slides available [here](/documents/slides.pdf)
 - ### November 2024: [MaPLe](https://anupanand.space/maple/) (Mathematical Physics at Leeds), Leeds
-Talk: "The Yang-Baxter Equation and Quantum Group Symmetry". 
+Talk: "The Yang-Baxter Equation and Quantum Group Symmetry". Slides available [here](/documents/Maple.pdf)
 - ### October 2024: [Pure Mathematics Postgraduate Seminar](https://leeds-maths-pgr.github.io/pure/seminar.html), Leeds
 Blackboard Talk: "What's the Deal with Cellular Algebras?". 
 - ### July 2024: School of Maths PGR Conference 2024, Leeds
-Talk: "An Unorientable Extension of the Temperley Lieb Category". 
+Talk: "An Unorientable Extension of the Temperley Lieb Category". Slides available [here](/documents/slides.pdf)
 - ### April 2024: [YRS2024](https://sites.google.com/view/yrs-topo-lowdim) (Young Researchers School) Topological aspects of low-dimensional quantum physics, Maynooth
-Poster: "An Unorientable Extension of the Temperley Lieb Category". 
+Poster: "An Unorientable Extension of the Temperley Lieb Category". Slides available [here](/documents/Maynooth_Poster.pdf)
 - ### April 2024: [STAMP](https://higgs.ph.ed.ac.uk/events/stamp/) (Students in Theoretical and Mathematical Physics), Edinburgh
 Blackboard Talk: "Algebra from Statistical Mechanics".
 - ### March 2024: [JLAC](https://www.imperial.ac.uk/pure-mathematics/seminars/junior-london-algebra-colloquium/) (Junior London Algebra Colloquium), London
-Talk: "An Unorientable Extension of the Temperley-Lieb Category". 
+Talk: "An Unorientable Extension of the Temperley-Lieb Category". [here](/documents/SLIDES.pdf)
 - ### March 2024: [Pure Mathematics Postgraduate Seminar](https://leeds-maths-pgr.github.io/pure/seminar.html), Leeds
 Blackboard Talk: "Lattice Statistical Mechanics is Algebra".
 - ### June 2023: [SIDE 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?ovw=True&confId=67) (Symmetries and Integrability of Difference Equations), Warsaw
