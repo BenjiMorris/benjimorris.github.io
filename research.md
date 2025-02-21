@@ -1,7 +1,11 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 
+# Papers/Preprints
 
-# Research and Selected Writings
+- ### April 2025 (TBC): Temperley-Lieb Categories on Non-Orientable Surfaces
+(coming soon)
+
+# Other Writings
 
 - ### January 2023 (Updated June 2023): A Terminating q-Lauricella Transformation Formula
 [Here](/documents/q_series_id.pdf) we give a self contained discussion and proof of a charming q-series identity discovered in a previous project. For any integer n>0, it relates two terminating, type D, q-Lauricella series of rank n+1 and 2n-1, respectively. 
