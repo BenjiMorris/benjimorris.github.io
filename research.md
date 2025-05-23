@@ -2,8 +2,8 @@
 
 # Papers/Preprints
 
-- ### April 2025 (TBC): Temperley-Lieb Categories on Non-Orientable Surfaces
-Joint work with Dionne Ibarra, Gabriel Montoya-Vega, and Paul Martin (coming soon).
+- ### June 2025 (TBC): Temperley-Lieb Categories on Non-Orientable Surfaces
+Joint work with Dionne Ibarra, Gabriel Montoya-Vega, and Paul Martin (coming soon!).
 
 # Other Writings
 
