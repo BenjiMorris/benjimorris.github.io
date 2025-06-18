@@ -2,7 +2,10 @@
 
 # Talks/Posters Presented:
 
-
+- ### June 2025: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo (Supported by an [LMS travel grant](https://www.lms.ac.uk/grants/lms-travel-grants-early-career-researchers) for early career researchers)  
+Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_Bedlewo.pdf)
+- ### April 2025: [ITMAIA 2025](https://sites.google.com/view/itmaia2025/home) (Introduction to Modern Advances in Algebra), Manchester
+Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_ITMAIA.pdf)
 - ### December 2024: [Artin](https://conferences.leeds.ac.uk/artin/) (Algebra and Representation Theory in the North) Biracks and Biquandles: Theory, applications, and new perspectives, Leeds
 Talk: "A Diagram Category for Non-orientable Surfaces". [Slides](/documents/slides.pdf)
 - ### November 2024: [MaPLe](https://anupanand.space/maple/) (Mathematical Physics at Leeds), Leeds
@@ -41,5 +44,3 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 
 # Upcoming:
 
-- ### 9-11 April 2025: [ITMAIA 2025](https://sites.google.com/view/itmaia2025/home) (Introduction to Modern Advances in Algebra), Manchester
-- ### (TBC) 15–21 June 2025: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo  
