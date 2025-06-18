@@ -2,7 +2,7 @@
 
 # Papers/Preprints
 
-- ### June 2025 (TBC): Temperley-Lieb Categories on Non-Orientable Surfaces
+- ### June 2025: Temperley-Lieb Categories on Non-Orientable Surfaces
 Joint work with Dionne Ibarra and Gabriel Montoya-Vega. A [working draft](https://arxiv.org/abs/2506.14319) is available on arXiv. 
 ![](pictures/unor_TL_pic1.png)
 
