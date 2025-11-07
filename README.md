@@ -2,7 +2,7 @@
 
 ![](pictures/Pic2.jpg)
 
-Hi, I am a third year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/) and [Professor Frank Nijhoff](https://www1.maths.leeds.ac.uk/~frank/). I am also currently an organiser for the [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/).  
+Hi, I am a third year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/) and [Professor Frank Nijhoff](https://www1.maths.leeds.ac.uk/~frank/).
 
 Broadly speaking, I am interested in algebraic, representation theoretic, and combinatorial aspects of mathematical physics. Currently, my research concerns the representation theory of diagram algebras/categories, and their applications in low-dimensional topology. In the future I hope to investigate applications thereof in statistical mechanics and topological quantum systems. 
 
