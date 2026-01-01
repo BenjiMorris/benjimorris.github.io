@@ -1,6 +1,9 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 
 # Papers/Preprints
+- ### Dec 2025: On semisimplicity criteria and non-semisimple representation theory for the Kadar-Yu algebras
+Joint work with Paul Martin. Available on [arXiv](https://arxiv.org/abs/2512.24535). 
+![](pictures/unor_TL_pic1.png)
 
 - ### June 2025: Temperley-Lieb Categories on Non-Orientable Surfaces
 Joint work with Dionne Ibarra and Gabriel Montoya-Vega. Available on [arXiv](https://arxiv.org/abs/2506.14319). 
