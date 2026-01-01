@@ -3,7 +3,7 @@
 # Papers/Preprints
 - ### Dec 2025: On semisimplicity criteria and non-semisimple representation theory for the Kadar-Yu algebras
 Joint work with Paul Martin. Available on [arXiv](https://arxiv.org/abs/2512.24535). 
-![](pictures/unor_TL_pic1.png)
+![](pictures/Roots.gif)
 
 - ### June 2025: Temperley-Lieb Categories on Non-Orientable Surfaces
 Joint work with Dionne Ibarra and Gabriel Montoya-Vega. Available on [arXiv](https://arxiv.org/abs/2506.14319). 
