@@ -3,7 +3,7 @@
 # Papers/Preprints
 
 - ### June 2025: Temperley-Lieb Categories on Non-Orientable Surfaces
-Joint work with Dionne Ibarra and Gabriel Montoya-Vega. A [working draft](https://arxiv.org/abs/2506.14319) is available on arXiv. 
+Joint work with Dionne Ibarra and Gabriel Montoya-Vega. Available on [arXiv](https://arxiv.org/abs/2506.14319). 
 ![](pictures/unor_TL_pic1.png)
 
 # Other Writings
