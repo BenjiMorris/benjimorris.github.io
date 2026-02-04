@@ -2,7 +2,7 @@
 
 ![](pictures/Pic2.jpg)
 
-Hi, I am a final year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/) and [Professor Frank Nijhoff](https://www1.maths.leeds.ac.uk/~frank/).
+Hi, I am a final year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/) and [Professor Frank Nijhoff](https://www1.maths.leeds.ac.uk/~frank/). In April 2026, I will be organising (joint with Orla McGrath and Ben Mills) the conference [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home?pli=1) at Leeds.
 
 Broadly speaking, I am interested in algebraic structures which appear at the interface between mathematical physics (espeically lattice models in statistical mechanics and topological quantum systems), low-dimensional topology and representation theory. I enjoy solving problems in algebra and topology by homological and combinatorial methods and like to program using various software, such as python and mathematica, to perform and manage large calculations. 
 
