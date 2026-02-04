@@ -45,6 +45,8 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 
 # Conferences/Workshops Attended:
 (excluding those above) 
+- ### January 2026: [Mini-conference: Categorification](https://sites.google.com/view/categorificationuea2026), Norwich
+- ### January 2026: [Scottish Talbot On Algebra and Topology: Lasagna Skein Modules](https://sites.google.com/view/stoat-workshop/home), Crianlarich (Scotland)
 - ### July 2024: [Diagrammatic Intuition and Deep Learning in Mathematics](https://sites.google.com/view/diagrammatic-learning/home), York
 - ### July 2024: [Combinatorial representation theory and diagrammatic categorification](https://sites.google.com/view/york-lms-research-school-2024/home), York
 - ### May 2024: [CQI Workshop](https://integrable-systems.leeds.ac.uk/quantisation-of-integrable-systems-old-and-new/), Quantisation of Integrable Systems: old and new, Leeds
