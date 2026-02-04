@@ -3,6 +3,8 @@
 # Talks/Posters Presented:
 
 
+- ### February 2026: [Pure Mathematics Postgraduate Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds
+Blackboard Talk: "How to make lasagna". 
 - ### November 2025: [York Algebra Seminar](https://www.york.ac.uk/maths/research/algebra/events/), York  
 Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_york_alg.pdf)
 - ### November 2025: [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/), Leeds  
