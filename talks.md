@@ -2,8 +2,17 @@
 
 # Talks/Posters Presented:
 
+
+- ### November 2025: [York Algebra Seminar](https://www.york.ac.uk/maths/research/algebra/events/), York  
+Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_york_alg.pdf)
+- ### November 2025: [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/), Leeds  
+Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_leeds_alg.pdf)
+- ### September 2025: [Higher Structures: Recent developments and applications](https://www.math.uni-hamburg.de/home/dyckerhoff/HigherStructuresSchool2025/), Hamburg  
+Gong Show Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_hamburg.pdf)
 - ### June 2025: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo (Supported by an [LMS travel grant](https://www.lms.ac.uk/grants/lms-travel-grants-early-career-researchers) for early career researchers)  
 Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_Bedlewo.pdf)
+- ### May 2025: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
+Talk: "A Diagram Category for Non-orientable Surfaces". [Slides](/documents/slides_interplay.pdf)
 - ### April 2025: [ITMAIA 2025](https://sites.google.com/view/itmaia2025/home) (Introduction to Modern Advances in Algebra), Manchester
 Talk: "A Diagram Category for Non-orientable Surfaces". [Slides](/documents/slides_ITMAIA.pdf)
 - ### December 2024: [Artin](https://conferences.leeds.ac.uk/artin/) (Algebra and Representation Theory in the North) Biracks and Biquandles: Theory, applications, and new perspectives, Leeds
