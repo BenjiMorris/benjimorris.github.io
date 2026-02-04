@@ -11,7 +11,7 @@ Joint work with Dionne Ibarra and Gabriel Montoya-Vega. Available on [arXiv](htt
 
 # Other Writings
 
-- **January 2023** (Updated June 2023): A Terminating q-Lauricella Transformation Formula
+- **January 2023** (Updated June 2023): A Terminating q-Lauricella Transformation Formula.
 [Here](/documents/q_series_id.pdf) we give a self contained discussion and proof of a charming q-series identity discovered in a previous project. For any integer n>0, it relates two terminating, type D, q-Lauricella series of rank n+1 and 2n-1, respectively. 
-- **November 2021**: Towards a Factorised Solution of the Yang-Baxter Equation with Uq(sl_4) Symmetry
+- **November 2021**: Towards a Factorised Solution of the Yang-Baxter Equation with Uq(sl_4) Symmetry.
 My Honours thesis, supervised by Professor Vladimir Mangazeev at the Australian National University. Available [here](/documents/thesis.pdf).
