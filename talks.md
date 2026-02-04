@@ -56,4 +56,7 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 - ### April 2023: [Spring School in Algebra and Representation Theory](https://www.kent.ac.uk/smsas/personal/sl261/Conference/Canterbury2023/Practical2023.html), Canterbury
 
 # Upcoming:
-
+- ### June 2026: Research Visit to Hamburg
+- ### April 2026: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds, (Organising)
+- ### February 2026: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
+- ### February 2026: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds, (Organising)
