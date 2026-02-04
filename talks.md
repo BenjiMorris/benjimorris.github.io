@@ -23,7 +23,7 @@ Talk: "A Diagram Category for Non-orientable Surfaces". [Slides](/documents/slid
 Talk: "The Yang-Baxter Equation and Quantum Group Symmetry". [Slides](/documents/Maple.pdf)
 -  October 2024: [Pure Mathematics Postgraduate Seminar](https://leeds-maths-pgr.github.io/pure/seminar.html), Leeds
 Blackboard Talk: "What's the Deal with Cellular Algebras?". 
-- ### July 2024: School of Maths PGR Conference 2024, Leeds
+- July 2024: School of Maths PGR Conference 2024, Leeds
 Talk: "An Unorientable Extension of the Temperley Lieb Category". [Slides](/documents/PGR_Talk.pdf)
 -  April 2024: [YRS2024](https://sites.google.com/view/yrs-topo-lowdim) (Young Researchers School) Topological aspects of low-dimensional quantum physics, Maynooth
 Poster: "An Unorientable Extension of the Temperley Lieb Category". [Poster](/documents/Maynooth_Poster.pdf)
