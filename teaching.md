@@ -5,9 +5,11 @@
 
 
 
-### Demonstrating:
+### Demonstrating and Marking:
 
 
+- UoL, Spring Semester 2025/26: MATH1110 Real Analysis
+- UoL, Autumn Semester 2025/26: MATH2130 Further Linear Algebra and Discrete Mathematics
 - UoL, Autumn & Spring Semester 2024/25: MATH1110 Real Analysis
 - UoL, Autumn Semester 2024/25: MATH1120 Introduction to Group Theory
 - UoL, Spring Semester 2023/24: MATH2017 Real Analysis
