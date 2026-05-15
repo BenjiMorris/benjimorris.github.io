@@ -3,7 +3,7 @@
 
 
 -  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels
--  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/)) & 
+-  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/)) with [Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/en/forschung/bereiche/az/kohomologische-methoden/lehre/research-seminar.html)
 -  **June 2026**: One-Day Workshop in Torino
 -  **August 2026**: [Tensor categories in representation theory & vice versa](https://sites.google.com/view/reptensor), Uppsala
 
