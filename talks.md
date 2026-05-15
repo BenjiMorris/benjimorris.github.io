@@ -1,8 +1,16 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
+# Upcoming:
+
+-  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/))
+
+# Organised:
+-  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds, (Organising)
+-  **February 2026**: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds, (Organising)
 
 # Talks/Posters Presented:
 
-
+-  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
+Board talk: "Some non-semisimple representation theory for the Kadar-Yu Algebras"
 -  **February 2026**: [Pure Mathematics Postgraduate Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds
 Blackboard Talk: "How to make lasagna". 
 -  **November 2025**: [York Algebra Seminar](https://www.york.ac.uk/maths/research/algebra/events/), York  
@@ -56,8 +64,4 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 -  **May 2023**: [CQI Workshop](https://integrable-systems.leeds.ac.uk/poisson/), Poisson and quantum structures in integrable systems, Leeds
 - **April 2023**: [Spring School in Algebra and Representation Theory](https://www.kent.ac.uk/smsas/personal/sl261/Conference/Canterbury2023/Practical2023.html), Canterbury
 
-# Upcoming:
--  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/))
--  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds, (Organising)
--  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
--  **February 2026**: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds, (Organising)
+
