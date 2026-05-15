@@ -4,9 +4,11 @@
 -  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/))
 
 # Organised:
--  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds, (Organising)
--  **February 2026**: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds, (Organising)
-
+-  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds
+-  **March 2026**: [Dijkgraaf-Witten Theory, Tensor Categories, and Applications](https://conferences.leeds.ac.uk/miqc/), Leeds
+  (part of the joint Leeds-Hamburg project: [Mathematics and Implementation of Quantum Computing](https://benjimorris.github.io/miqc/) (MIQC))
+-  **February 2026**: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds
+  (part of the joint Leeds-Hamburg project: [Mathematics and Implementation of Quantum Computing](https://benjimorris.github.io/miqc/) (MIQC))
 # Talks/Posters Presented:
 
 -  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
