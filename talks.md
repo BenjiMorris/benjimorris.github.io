@@ -2,6 +2,7 @@
 # Upcoming:
 
 
+-  **June 2026**: [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026), York
 -  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels
 -  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/)) with a talk in the [Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/en/forschung/bereiche/az/kohomologische-methoden/lehre/research-seminar.html)
 -  **June 2026**: One-Day Workshop in Torino
@@ -13,6 +14,7 @@
   (part of the joint Leeds-Hamburg project: [Mathematics and Implementation of Quantum Computing](https://benjimorris.github.io/miqc/) (MIQC))
 -  **February 2026**: [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb.html), Leeds
   (part of the joint Leeds-Hamburg project: [Mathematics and Implementation of Quantum Computing](https://benjimorris.github.io/miqc/) (MIQC))
+
 # Talks/Posters Presented:
 
 -  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
