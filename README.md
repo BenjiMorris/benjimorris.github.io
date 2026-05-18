@@ -1,6 +1,6 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 
-![](pictures/alt.JPG)
+![](pictures/backg.jpg)
 
 Hi, I am a final year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/). I planning to finish my studies in the Summer of 2026 and I am currently looking for postdoc positions. 
 
