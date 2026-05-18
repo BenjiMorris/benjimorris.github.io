@@ -8,7 +8,7 @@ Broadly speaking, I am interested in algebraic structures which appear at the in
 
 Very often, I solve problems in algebra and topology by combinatorial and algorithmic methods and like to program using various software, such as python and mathematica, to perform and manage large calculations. 
 
-Previously, I have studied integrability (mostly solvability in lattice models) through the lense of the Yang-Baxter equation and related algebraic structures such as quantum groups. During this I developed a fondness for special functions :).
+Previously, I have studied integrability (mostly solvability in lattice models) through the lense of the Yang-Baxter equation and related algebraic structures such as quantum groups. During this I developed a fondness for q-special functions :).
 
 I completed a PhB with first class honours at the Australian National University in December 2021. My honours thesis was supervised by [Professor Vladimir Mangazeev](https://physics.anu.edu.au/contact/people/profile.php?ID=327).
 
