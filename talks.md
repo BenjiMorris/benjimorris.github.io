@@ -14,7 +14,7 @@
 
 # Talks/Posters Presented:
 
--  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels, [Poster](/documents/posterVUB.pdf)
+-  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels, [Poster](/documents/PosterVUB.pdf)
 -  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
 Board talk: "Some non-semisimple representation theory for the Kadar-Yu Algebras"
 -  **February 2026**: [Pure Mathematics Postgraduate Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds
