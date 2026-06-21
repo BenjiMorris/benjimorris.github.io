@@ -1,11 +1,8 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 # Upcoming:
 
-
--  **June 2026**: [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026), York
--  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels
 -  **June 2026**: Research Visit to Hamburg (hosted by [Prof. Paul Wedrich](https://paul.wedrich.at/)) with a talk in the [Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/en/forschung/bereiche/az/kohomologische-methoden/lehre/research-seminar.html)
--  **June 2026**: One-Day Workshop in Torino
+-  **June 2026**: Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino
 -  **August 2026**: [Tensor categories in representation theory & vice versa](https://sites.google.com/view/reptensor), Uppsala
 
 # Organised:
@@ -17,6 +14,7 @@
 
 # Talks/Posters Presented:
 
+-  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels, [Poster](/documents/posterVUB.pdf)
 -  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds
 Board talk: "Some non-semisimple representation theory for the Kadar-Yu Algebras"
 -  **February 2026**: [Pure Mathematics Postgraduate Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds
@@ -61,6 +59,8 @@ Talk: "Towards a factorised solution of the Yang-Baxter equation with Uq(sln) sy
 
 # Conferences/Workshops Attended:
 (excluding those above) 
+
+-  **June 2026**: [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026), York
 -  **January 2026**: [Mini-conference: Categorification](https://sites.google.com/view/categorificationuea2026), Norwich
 -  **January 2026**: [Scottish Talbot On Algebra and Topology: Lasagna Skein Modules](https://sites.google.com/view/stoat-workshop/home), Crianlarich (Scotland)
 -  **October 2025**: [Inclusion, Diversity, and Equity in Algebra conference (IDEAL)](https://conferences.leeds.ac.uk/ideal/), Leeds
