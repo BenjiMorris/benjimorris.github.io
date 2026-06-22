@@ -20,9 +20,9 @@ Board talk: "Some non-semisimple representation theory for the Kadar-Yu Algebras
 -  **February 2026**: [Pure Mathematics Postgraduate Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds.
 Blackboard Talk: "How to make lasagna". 
 -  **November 2025**: [York Algebra Seminar](https://www.york.ac.uk/maths/research/algebra/events/), York.  
-Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_york_alg.pdf)
+Talk: "Semi simplicity criteria for the Kadar-Yu algebras". [Slides](/documents/slides_york_alg.pdf)
 - **November 2025**: [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/), Leeds.  
-Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_leeds_alg.pdf)
+Talk: "Semi simplicity criteria for the Kadar-Yu algebras". [Slides](/documents/slides_leeds_alg.pdf)
 -  **September 2025**: [Higher Structures: Recent developments and applications](https://www.math.uni-hamburg.de/home/dyckerhoff/HigherStructuresSchool2025/), Hamburg.  
 Gong Show Talk: "Diagram Categories for Non-orientable Surfaces". [Slides](/documents/slides_hamburg.pdf)
 -  **June 2025**: [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe#h.3rd29ta5o75t), Będlewo (Supported by an [LMS travel grant](https://www.lms.ac.uk/grants/lms-travel-grants-early-career-researchers) for early career researchers).  
