@@ -9,7 +9,7 @@ Some associated Mathematica code for computing Gram matrices as in section 3 is 
 - ### June 2025: Temperley-Lieb Categories on Non-Orientable Surfaces
 Joint work with Dionne Ibarra and Gabriel Montoya-Vega. Available on [arXiv](https://arxiv.org/abs/2506.14319). 
 ![](pictures/unor_TL_pic1.png)
-Some associated Mathematica code for drawing and manipulating SWB diagrams is available here [here](/codes/SquareWithBandsCalc.nb).
+Some associated Mathematica code for drawing and manipulating SWB diagrams is available here [here](/codes/SquareWithBandsCalcs.nb).
 
 # Other Writings
 
