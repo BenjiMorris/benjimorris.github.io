@@ -13,7 +13,7 @@
 # Talks/Posters Presented:
 
 -  **Septmber 2026**: ARTIN 2026, Newcastle. [Slides](/documents/ARTIN_slides_BM.pdf).
--  **July 2026**: [NBMPS 77](https://www-users.york.ac.uk/~sld589/NBMPS77.html), York. [Slides](url)
+-  **July 2026**: [NBMPS 77](https://www-users.york.ac.uk/~sld589/NBMPS77.html), York. [Slides](/documents/NBMPS_slides.pdf)
 -  **June 2026**: [Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino](https://sites.google.com/view/miniworkshop-math-torino-2026/programme?authuser=0).
 -  **June 2026**: [QTCat Seminar](https://www.math.uni-hamburg.de/en/forschung/bereiche/az/kohomologische-methoden/lehre/research-seminar.html), Hamburg. [Slides](/documents/Hamburg_slides.pdf)
 -  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels. [Poster](/documents/PosterVUB.pdf)
