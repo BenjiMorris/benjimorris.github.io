@@ -2,7 +2,7 @@
 
 ![](pictures/backg.jpg)
 
-Hi, I am an [EPSRC postdoctoral fellow](https://www.ukri.org/what-we-do/developing-people-and-skills/how-we-invest-in-research-and-innovation-careers/epsrc-postdoctoral-pathways/) in the [School of MSP](https://www.ncl.ac.uk/maths-physics/) at the University of Newcastle. Previously I was a PhD student in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](https://eps.leeds.ac.uk/maths/staff/4061/professor-paul-martin). 
+Hi, I am an [EPSRC postdoctoral fellow](https://www.ukri.org/what-we-do/developing-people-and-skills/how-we-invest-in-research-and-innovation-careers/epsrc-postdoctoral-pathways/) in the [School of MSP](https://www.ncl.ac.uk/maths-physics/) at Newcastle University. Previously I was a PhD student in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](https://eps.leeds.ac.uk/maths/staff/4061/professor-paul-martin). 
 
 Broadly speaking, I am interested in algebraic structures which appear at the interface between mathematical physics (espeically (integrable) lattice models in statistical mechanics and topological quantum systems), representation theory and low-dimensional topology. Currently, my research concerns diagram algebras/categories and their representation theory.
 
