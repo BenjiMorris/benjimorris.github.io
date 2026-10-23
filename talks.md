@@ -1,7 +1,7 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 # Upcoming:
 -  **October 2026**: Algebra and Geometry Seminar, Newcastle.
--  **November 2026**: ARTIN 2026, Newcastle.
+-  **November 2026**: Algebra and Representation Theory Seminar, Cambridge.
 
 # Organised:
 -  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds
