@@ -1,7 +1,7 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 # Upcoming:
--  **October 2026**: Algebra and Geometry Seminar, Newcastle
--  **November 2026**: ARTIN 2026, Newcastle
+-  **October 2026**: Algebra and Geometry Seminar, Newcastle.
+-  **November 2026**: ARTIN 2026, Newcastle.
 
 # Organised:
 -  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds
@@ -12,8 +12,8 @@
 
 # Talks/Posters Presented:
 
--  **Septmber 2026**: ARTIN 2026, Newcastle
--  **June 2026**: Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino
+-  **Septmber 2026**: ARTIN 2026, Newcastle. Slides.
+-  **June 2026**: [Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino](https://sites.google.com/view/miniworkshop-math-torino-2026/programme?authuser=0).
 -  **June 2026**: [QTCat Seminar](https://www.math.uni-hamburg.de/en/forschung/bereiche/az/kohomologische-methoden/lehre/research-seminar.html), Hamburg. [Slides](/documents/Hamburg_slides.pdf)
 -  **June 2026**: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html), Brussels. [Poster](/documents/PosterVUB.pdf)
 -  **February 2026**: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds (Board talk).
