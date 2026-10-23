@@ -1,9 +1,6 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 # Upcoming:
 
-
--  **June 2026**: Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino
-
 # Organised:
 -  **April 2026**: [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026), Leeds
 -  **March 2026**: [Dijkgraaf-Witten Theory, Tensor Categories, and Applications](https://conferences.leeds.ac.uk/miqc/), Leeds
