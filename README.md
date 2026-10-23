@@ -2,9 +2,9 @@
 
 ![](pictures/backg.jpg)
 
-Hi, I am a final year EPSRC funded PhD candidate in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](https://eps.leeds.ac.uk/maths/staff/4061/professor-paul-martin). I planning to finish my studies in the Summer of 2026 and I am currently looking for postdoc positions. 
+Hi, I am an [EPSRC postdoctoral fellow](https://www.ukri.org/what-we-do/developing-people-and-skills/how-we-invest-in-research-and-innovation-careers/epsrc-postdoctoral-pathways/) in the [School of MSP](https://www.ncl.ac.uk/maths-physics/) at the University of Newcastle. Previously I was a PhD student in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, supervised by [Professor Paul Martin](https://eps.leeds.ac.uk/maths/staff/4061/professor-paul-martin). 
 
-Broadly speaking, I am interested in algebraic structures which appear at the interface between mathematical physics (espeically (integrable) lattice models in statistical mechanics and topological quantum systems), representation theory and low-dimensional topology. Currently, my research concerns diagram algebras/categories and their representation theory. More specifically, I have been encoding low-dimensional topological phenomena in diagram algebras by combinatorial means. 
+Broadly speaking, I am interested in algebraic structures which appear at the interface between mathematical physics (espeically (integrable) lattice models in statistical mechanics and topological quantum systems), representation theory and low-dimensional topology. Currently, my research concerns diagram algebras/categories and their representation theory.
 
 Very often, I solve problems in algebra and topology by combinatorial and algorithmic methods and like to program using various software, such as python and mathematica, to perform and manage large calculations. 
 
