@@ -1,6 +1,5 @@
 [Home](https://benjimorris.github.io/)  |  [Research & Selected Writings](https://benjimorris.github.io/research.html)  |  [Conferences/Workshops](https://benjimorris.github.io/talks.html)  |  [Teaching](https://benjimorris.github.io/teaching.html) | [CV](https://benjimorris.github.io/CV.html)
 # Upcoming:
--  **October 2026**: [Algebra and Geometry Seminar](https://blogs.ncl.ac.uk/puremaths/algebra-and-geometry/), Newcastle.
 -  **November 2026**: [Algebra and Representation Theory Seminar](https://talks.cam.ac.uk/show/index/12242/), Cambridge.
 
 # Organised:
@@ -12,6 +11,8 @@
 
 # Talks/Posters Presented:
 
+
+-  **October 2026**: [Algebra and Geometry Seminar](https://blogs.ncl.ac.uk/puremaths/algebra-and-geometry/), Newcastle (Board talk). 
 -  **Septmber 2026**: ARTIN 2026, Newcastle. [Slides](/documents/ARTIN_slides_BM.pdf).
 -  **July 2026**: [NBMPS 77](https://www-users.york.ac.uk/~sld589/NBMPS77.html), York. [Slides](/documents/NBMPS_slides.pdf)
 -  **June 2026**: [Categorical Structures, Groupoids, and the Yang-Baxter Equation: A Mini-Workshop in Torino](https://sites.google.com/view/miniworkshop-math-torino-2026/programme?authuser=0).
